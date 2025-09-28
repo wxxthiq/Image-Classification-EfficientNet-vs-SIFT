@@ -56,11 +56,6 @@ The fine-tuned EfficientNetB0 model demonstrated vastly superior performance com
 
 <br>
 
-**Fine-Tuned Model Performance on CIFAR-10 and STL-10:**
-*(You can replace `path/to/your/image.png` with a screenshot of Figure 2 from your report.)*
-
-![Fine-Tuned Model Performance](path/to/your/image.png)
-
 ---
 
 ## Technologies Used
@@ -79,7 +74,7 @@ The fine-tuned EfficientNetB0 model demonstrated vastly superior performance com
 
 ## Setup and Usage
 
-To replicate the results, clone the repository and install the required dependencies. The code has been refactored into a modular structure for better readability and reuse.
+To replicate the results, clone the repository and install the required dependencies. 
 
 ```bash
 # Clone the repository
