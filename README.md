@@ -78,8 +78,7 @@ To replicate the results, clone the repository and install the required dependen
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone https://github.com/wxxthiq/Image-Classification-EfficientNet-vs-SIFT.git
 
 # It is recommended to use a virtual environment
 python -m venv venv
